@@ -24,7 +24,7 @@ python -m SemanticSearch.main embed
 Ask one question:
 
 ```powershell
-python -m SemanticSearch.main ask "What are the main transition challenges?"
+python -m SemanticSearch.main ask "What is the summary of the document?"
 ```
 
 Interactive mode:
